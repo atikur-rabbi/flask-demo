@@ -14,7 +14,6 @@ _mailinglist
 .tox/
 .cache/
 .data/
-.node_modules/
 .pytest_cache/
 .idea/
 docs/_build/
