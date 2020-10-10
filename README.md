@@ -1,19 +1,9 @@
-Flask / Python Version of the default 'Dreams' project
-======================================================
+# README
 
-Click `"Show"` in the header to see your app live. Updates to your code will instantly deploy and update live.
+This is the [Flask](http://flask.pocoo.org/) [quick start](http://flask.pocoo.org/docs/1.0/quickstart/#a-minimal-application) example for [Render](https://render.com).
 
-Your Project
-------------
+The app in this repo is deployed at [https://flask.onrender.com](https://flask.onrender.com).
 
-On the back-end,
-- your app starts at `server.py`
-- add frameworks and packages in `requirements.txt`
-- safely store app secrets in `.env`
+## Deployment
 
-On the front-end,
-- edit `client.js`, `style.css` and `index.html`
-- drag in `assets`, like images or music, to add them to your project
-
-
-Remixed from 'flask-hello-world' by Atik
+Follow the guide at https://render.com/docs/deploy-flask.
